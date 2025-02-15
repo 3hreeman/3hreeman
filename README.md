@@ -28,15 +28,15 @@
 2. 전투 로직 및 스킬 시스템
 3. 캐릭터 커스터마이징, 이벤트 컷씬 시스템
 
-### [마법스크롤 상인 지오]<sub>2021</sub>
+### 마법스크롤 상인 지오 <sub>2021</sub>
 개발팀 프로그래밍 파트 / 프로그래머
 1. 전투 프로토타이핑 및 기본 시스템 설계
-2. 메모리 최적화
+2. 빌드 최적화
    
-### [전자오락수호대]()<sub>2020</sub>
+### [전자오락수호대](https://play.google.com/store/apps/details?id=com.superplanet.videogameguardians&hl=ko) <sub>2020</sub>
 개발팀 프로그래밍 파트 / 프로그래머
-1. 프로젝트 리메이크
-2. 사내 프레임워크 적용 및 최적화
+1. 프로젝트 리메이크 및 빌드 최적화
+2. 사내 프레임워크 적용
 
 <!--
 **3hreeman/3hreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
