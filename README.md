@@ -1,4 +1,9 @@
-## Hi there 👋
+# 장세명 Threeman
+대한민국, 서울 | santapemagic@gmail.com | [LinkedIn](https://www.linkedin.com/in/3hreeman)
+
+---
+
+
 
 <!--
 **3hreeman/3hreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
