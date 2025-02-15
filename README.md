@@ -5,8 +5,8 @@
 ## Works
 **Client**      : Unity  
 **Server**      : Java, Apache Tomcat, MyBatis  
-**Database**    : MySQL, Redis
-**Environment** : Amazon  
+**Database**    : MySQL, Redis  
+**Environment** : AWS(EC2, S3), Linux
 
 
 ### [Hardcore Leveling Warrior](https://play.google.com/store/apps/details?id=com.superplanet.lucid3.global&hl=en) <sub>2024</sub>
