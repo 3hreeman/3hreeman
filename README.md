@@ -5,7 +5,7 @@
 ## Works
 **Client**      : Unity  
 **Server**      : Java, Apache Tomcat, MyBatis  
-**Database**    : MySQL  
+**Database**    : MySQL, Redis
 **Environment** : Amazon  
 
 
