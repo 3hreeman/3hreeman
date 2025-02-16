@@ -143,8 +143,9 @@ ECS의 데이터 지향적 구조가 생소하게 느껴졌고, 기존에 익숙
 - Unity JOB시스템
 
 가장 큰 차이점은 실행되는 **Thread**가 다르다는 점입니다. 
-MonoBehaviour의 Update는 Main Thread에서,
-JobSystem은 JobThread에서 별도로 실행된다는 점이 큰 차이입니다.
+- MonoBehaviour의 Update는 **Main Thread**에서,
+- JobSystem은 **JobThread**에서 별도로 실행된다는 점이 큰 차이입니다.  
+
 두 Thread의 차이점은 아래에 간략하게 정리해두었습니다.
 <details>
 <summary>Unity의 MainThread와 JobThread</summary>
