@@ -15,8 +15,8 @@
 
 개발팀 프로그래밍 파트 / 리드 프로그래머
 1. 프로토타이핑 및 최적화
-2. 전투 씬 구성, 전투 시스템
-3. 스킬 및 특성 시스템
+2. 전투, 스킬 및 특성 시스템
+3. 어뷰징 탐지 및 자동 재제 시스템
 
 ### [부메랑 RPG:던져라! 듀드](https://play.google.com/store/apps/details?id=com.superplanet.boomerang&hl=ko) <sub>2024</sub>
 개발팀 프로그래밍 파트 / 리드 프로그래머
