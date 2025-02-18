@@ -40,9 +40,26 @@
 1. 프로젝트 리메이크 및 빌드 최적화
 2. 사내 프레임워크 적용
 
+### [열렙전사 with NaverWEBTOON](https://www.youtube.com/watch?v=f2SMgYMH39Y&ab_channel=%EC%97%B4%EB%A0%99%EC%A0%84%EC%82%ACwithNAVERWEBTOON) / [각성! 열렙전사](https://game.naver.com/lounge/Hardcore_Leveling_Warrior_Awakening/home#play) <sub>2019</sub>
+개발팀 프로그래밍 파트 / 프로그래머  
+1. 필드맵 구조 및 전투 시스템 개발
+2. 컷씬 시스템, 맵 에디터 개발
+3. UNET(현 Unity Multiplayer)을 이용한 실시간 멀티플레이 데디케이트 서버 및 컨텐츠 개발
+
+
+### [삼극희Defense](https://www.taptap.io/app/71403) <sub>2017</sub>
+프로그래밍 팀 / 프로그래머  
+1. 전투 로직 및 컨텐츠 개발
+2. AssetBundle을 이용한 리소스 관리
+
+### [타이탄워즈2 for AfreecaTV](https://www.inven.co.kr/webzine/news/?news=123391&site=mobilegame) / [쌤쌤마트](https://vidkidz.tistory.com/71) <sub>2015</sub>
+프로그래밍 팀 / 프로그래머
+1. Adobe Flash, Action Script 기반 클라이언트 개발 및 유지보수
+2. 서버 관리 및 랭킹 시스템 유지보수
+
+
+
 </details>
-
-
 
 
 
